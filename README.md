@@ -25,13 +25,20 @@ Campaign advertising can be purchased effectively through the platform.
 Reporting to public blockchains and standard web is supported.
 
 ## Small group conversations
-Campaigns and governments are composed of and led by individuals, but they come together to cooperate for a group purpose.
-The common welfare of the population, as opposed to an individual's selfish interests, is to be desired in a system for operating a government responsible to and for the entire population.  
+Campaigns and governments are composed of and led by individuals, but they come together to cooperate for a shared purpose.
+The common welfare of the population, as opposed to an individual's selfish interests, is to be desired when operating a government responsible to and for the entire population.  
 <!-- It's essential for a society to have a fair and impartial government, so that individuals are free to act in their own interest and prosperity can be secured.-->
+
 We believe the people of the United States of America desire to participate in a conversation with their fellow citizens about the form and operations of their government.
-We overly rely on commercial entities to mediate public conversations - (Facebook, Google, Fox News, Twitter, TikTok, ...) and as we recover from the COVID-19 pandemic we need connection, conversation and shared purpose to heal our souls and our nation.
+
+We allow commercial entities to mediate public conversations - (Facebook, Google, Fox News, Twitter, TikTok, ...) and as we recover from the COVID-19 pandemic we need connection, conversation and shared purpose to heal our souls and our nation.
+
+A non-commercial communication platform can help support free, fair elections and good government.
+
 Our platform facilitates small group (4-5 users) formation and operation through a simple text message interface - SMS, webpage, app, etc.
+
 Campaign volunteers and AI agents participate to help with group formation and to moderate and guide conversations.   
+
 Conversations are time-limited and are not publicly visible through the platform.
 
 ## Voting
