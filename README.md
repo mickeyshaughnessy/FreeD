@@ -5,24 +5,10 @@ FreeD is a collection of tools for a free digital campaign management platform.
 The purpose of FreeD as a software project is to encourage excellence in government operations around the globe.
 
 FreeD provides:
-   1. A publicly visible accounting of the funds received and spent through the platform.
-   2. A private and anonymous individual database for identity resolution.
-   3. An API for media spend.
-   4. A system for operating ad-hoc social networks, in which small of groups (4-5) of individuals are formed for a brief (~3 days) conversation over chat / SMS / text. 
-
-## The Rockchain
-By writing a transaction history to public blockchains, political campaigns can sign blocks of transactions, publicly attesting to their validity.
-The platform allows campaigns to also digitally sign the platform's transaction history writes.
-The platform uses the ipfs filesystem to periodically dump transactions.
-
-## ID resolution
-An identity resolution API is provided.
-The API allows campaigns to make use of data on the platform without providing raw access to the data itself.
-This makes it possible for platform participants to buy, sell, and rent data and maintain privacy.
-
-## Ad-buying
-Campaign advertising can be purchased effectively through the platform.
-Reporting to public blockchains and standard web is supported.
+   1. A system for operating ad-hoc social networks, in which small of groups (4-5) of individuals are formed for a brief (~3 days) conversation over chat / SMS / text. 
+   2. A publicly visible accounting of the funds received and spent through the platform.
+   3. A private and anonymous individual database for identity resolution.
+   4. An API for media spend.
 
 ## Small group conversations
 Campaigns and governments are composed of and led by individuals, but they come together to cooperate for a shared purpose.
@@ -41,8 +27,22 @@ Campaign volunteers and AI agents participate to help with group formation and t
 
 Conversations are time-limited and are not publicly visible through the platform.
 
+## The Rockchain
+By writing a transaction history to public blockchains, political campaigns can sign blocks of transactions, publicly attesting to their validity.
+The platform allows campaigns to also digitally sign the platform's transaction history writes.
+The platform uses the ipfs filesystem to periodically dump transactions.
+
+## ID resolution
+An identity resolution API is provided.
+The API allows campaigns to make use of data on the platform without providing raw access to the data itself.
+This makes it possible for platform participants to buy, sell, and rent data and maintain privacy.
+
+## Ad-buying
+Campaign advertising can be purchased effectively through the platform.
+Reporting to public blockchains and standard web is supported.
+
 ## Voting
-We support publicly-signed shadow election voting, through which predictions and estimates of voting can be calculated. 
+We support publicly-signed shadow election voting, through which predictions and estimates of actual voting behavior can be calculated. 
   
 
 
